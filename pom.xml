@@ -46,7 +46,7 @@
             <plugin>
                 <groupId>org.apache.felix</groupId>
                 <artifactId>maven-scr-plugin</artifactId>
-                <version>1.15.1-R1557061</version>
+                <version>1.21.0</version>
                 <!-- As QDox is trying to inspect/load the classes
                      we have to add a slf4j implementation to the
                      class path of the plugin - we usually use
