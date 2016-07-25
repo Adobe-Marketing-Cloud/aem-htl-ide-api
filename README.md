@@ -1,9 +1,9 @@
-aem-sightly-ide-api
+aem-htl-ide-api
 ===============
 
-The Adobe Granite Sightly IDE API bundle provides a JSON description of Sightly Java Use-API Objects stored in the content repository.
+The Adobe HTL IDE API bundle provides a JSON description of the [HTL Java Use-API](https://github.com/Adobe-Marketing-Cloud/htl-spec/blob/1.2/SPECIFICATION.md#41-java-use-api) Objects stored in the content repository.
 
-This JSON description provides basic auto-complete features to the AEM Sightly Brackets Extension.
+This JSON description provides basic auto-complete features to the [AEM Brackets Extension](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension).
 
 For example:
 
